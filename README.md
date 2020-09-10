@@ -1,6 +1,16 @@
 # LaBouleQuiRoule
 Notre jeu est constitué d'un plateau et d'une boule. Le but du jeu est d'amener le boule à la fin du plateau. Il possible de tourner le plateau pour guider à la boule à l'aide des touches du clavier. Il est également possible de faire sauter la boule pour esquiver les obstacles. 5 niveaux à difficultés croissantes sont mis à disposition à l'utilisateur. Le niveau actuel de l'utilisateur est conservé d'une partie à une autre. Sur le plateau de jeu, se trouve différents élements pouvant aider l'utilisateur comme par exemples des plaques accélératrice ou des plaques qui font grossir la taille de la boule. A contrario des éléments négatifs comme des plaques décleratrice et des plaques faisant rétraicir la boule sont aussi présent.
 
+## Contexte
+
+Projet effectué durant le 5ème semestre du Bachelor pendant le cours d'infographie 
+
+## Equipe
+
+* Jonas Freiburghaus [@JonasFreibur](https://github.com/JonasFreibur)
+* Romain Capocasale [@RomainCapo](https://github.com/RomainCapo)
+* Vincent Moulin [@dicksor](https://github.com/dicksor)
+
 ## Objectifs supplémentaires
 * Selection du niveau 
 * Plaque grossisante et rétraicicante
